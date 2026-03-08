@@ -35,10 +35,3 @@
   <a href="https://www.nginx.com"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NGINX/nginx3.svg" /></a>
   <a href="https://code.visualstudio.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg" /></a>
 </p>
-
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shull1x&theme=radical" alt=""/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shull1x&theme=radical" alt=""/>
-  <img src="https://github-readme-stats.vercel.app/api?username=shull1x&show_icons=true&theme=radical" alt=""/>
-</p> 
