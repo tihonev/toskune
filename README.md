@@ -1,24 +1,14 @@
-<!-- Пример блока с картинкой справа. Скопируйте этот код в свой README.md -->
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        ### 👋 Привет, я shull1x  
-        🚀 **17 лет | Full-stack разработчик**  
-        Специализируюсь на создании быстрых и надёжных веб-платформ.  
-        **Frontend**: TS, Vue, Nuxt  
-        **Backend**: TS (Bun), изучаю Go, а в свободное время — Java и Rust.  
-      </td>
-      <td>
-        <!-- Вставьте сюда актуальную ссылку на ваше изображение -->
-        <img src="https://media.marketrealist.com/brand-img/wnQCyb46H/0x0/6906180119833245784364896865726632515076096n-1650995234734.jpg" 
-             alt="profile-avatar" 
-             width="250" 
-             style="border-radius: 20px; border: 1px solid #444;" />
-      </td>
-    </tr>
-  </table>
-</div>
+<img src="https://avatars.mds.yandex.net/i?id=9faecd261c64a354f616567de6df9343_l-7011592-images-thumbs&n=13" 
+     alt="avatar" 
+     width="280" 
+     style="border-radius: 24px; border: 1px solid #333; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
+     
+# 👋 Привет, я shull1x
+🚀 **17 лет | Full-stack разработчик**  
+
+Специализируюсь на создании быстрых и надёжных веб-платформ.  
+**Frontend**: TS, Vue, Nuxt  
+**Backend**: TS (Bun), изучаю Go, а в свободное время — Java и Rust.  
 
 ---
 
@@ -27,6 +17,8 @@
 <p align="center">
   <a href="https://www.typescriptlang.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript2.svg" height="28" /></a>
   <a href="https://vuejs.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vue/vue2.svg" height="28" /></a>
+  <a href="https://nuxt.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NuxtJS/nuxtjs2.svg" height="28" /></a>
+  <a href="https://bun.sh/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bun/bun2.svg" height="28" /></a>
   <a href="https://go.dev/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Go/go3.svg" height="28" /></a>
   <a href="https://www.python.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg" height="28" /></a>
   <a href="https://fastapi.tiangolo.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/FastAPI/fastapi2.svg" height="28" /></a>
