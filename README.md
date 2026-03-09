@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://avatars.mds.yandex.net/i?id=44081787b468c3aea2751695e5483129_l-4531115-images-thumbs&n=13" width="200" style="border-radius: 50%; border: 3px solid #f0f0f0; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
+<img src="https://avatars.mds.yandex.net/i?id=44081787b468c3aea2751695e5483129_l-4531115-images-thumbs&n=13" width="666" style="border-radius: 50%; border: 3px solid #f0f0f0; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
 
 # 👋 Привет, я shull1x
 🚀 **17 лет | Full-stack разработчик**  
