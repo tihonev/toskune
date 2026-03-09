@@ -18,10 +18,10 @@
 ### ⚙️ Инструменты и окружение
 Инструменты, с которыми работаю каждый день:
 <p>
-  <a href="https://code.visualstudio.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg" height="25" /></a> | 
-  <a href="https://www.docker.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker3.svg" height="25" /></a> | 
-  <a href="https://www.nginx.com"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NGINX/nginx3.svg" height="25" /></a> | 
-  <a href="https://www.cloudflare.com"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Cloudflare/cloudflare3.svg" height="25" /></a> | 
+  <a href="https://code.visualstudio.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg" height="25" /></a>
+  <a href="https://www.docker.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker3.svg" height="25" /></a> 
+  <a href="https://www.nginx.com"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NGINX/nginx3.svg" height="25" /></a> 
+  <a href="https://www.cloudflare.com"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Cloudflare/cloudflare3.svg" height="25" /></a> 
   <a href="https://www.archlinux.org"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch3.svg" height="25" /></a>
 </p>
 
