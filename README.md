@@ -2,7 +2,7 @@
   
 <img src="https://avatars.mds.yandex.net/i?id=44081787b468c3aea2751695e5483129_l-4531115-images-thumbs&n=13" width="1000" style="border-radius: 50%; border: 3px solid #f0f0f0; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
 
-# 👋 Привет, я shull1x
+# 👋 Привет, я toskune
 🚀 **17 лет | Full-stack разработчик**  
 
 Специализируюсь на создании быстрых и надёжных веб-платформ.  
@@ -45,38 +45,38 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" 
-            srcset="https://github-readme-stats.vercel.app/api?username=shull1x&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile" />
+            srcset="https://github-readme-stats.vercel.app/api?username=toskune&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile" />
     <source media="(prefers-color-scheme: light)" 
-            srcset="https://github-readme-stats.vercel.app/api?username=shull1x&show_icons=true&theme=vue&hide_border=true&rank_icon=percentile" />
+            srcset="https://github-readme-stats.vercel.app/api?username=toskune&show_icons=true&theme=vue&hide_border=true&rank_icon=percentile" />
     <img alt="GitHub Stats" 
-         src="https://github-readme-stats.vercel.app/api?username=shull1x&show_icons=true&theme=dark&hide_border=true" />
+         src="https://github-readme-stats.vercel.app/api?username=toskune&show_icons=true&theme=dark&hide_border=true" />
   </picture>
   
   <!-- 🌐 Топ языки -->
   <picture>
     <source media="(prefers-color-scheme: dark)" 
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shull1x&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" />
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=toskune&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" />
     <source media="(prefers-color-scheme: light)" 
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shull1x&layout=donut&theme=vue&hide_border=true&langs_count=6" />
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=toskune&layout=donut&theme=vue&hide_border=true&langs_count=6" />
     <img alt="Top Languages" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=shull1x&layout=donut&theme=dark&hide_border=true&langs_count=6" />
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=toskune&layout=donut&theme=dark&hide_border=true&langs_count=6" />
   </picture>
 </div>
 
 <!-- 📊 График активности -->
 <div align="center">
   <img alt="Activity Graph" 
-       src="https://github-readme-activity-graph.vercel.app/graph?username=shull1x&theme=react-dark&hide_border=true&area=true&area_color=6366f1&color=6366f1&line=6366f1&point=ffffff" />
+       src="https://github-readme-activity-graph.vercel.app/graph?username=toskune&theme=react-dark&hide_border=true&area=true&area_color=6366f1&color=6366f1&line=6366f1&point=ffffff" />
 </div>
 
 <!-- 🔥 GitHub Streak -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" 
-            srcset="https://streak-stats.demolab.com?user=shull1x&theme=dark&hide_border=true&ring=6366f1&fire=6366f1" />
+            srcset="https://streak-stats.demolab.com?user=toskune&theme=dark&hide_border=true&ring=6366f1&fire=6366f1" />
     <source media="(prefers-color-scheme: light)" 
-            srcset="https://streak-stats.demolab.com?user=shull1x&theme=default&hide_border=true&ring=6366f1&fire=6366f1" />
+            srcset="https://streak-stats.demolab.com?user=toskune&theme=default&hide_border=true&ring=6366f1&fire=6366f1" />
     <img alt="GitHub Streak" 
-         src="https://streak-stats.demolab.com?user=shull1x&theme=dark&hide_border=true" />
+         src="https://streak-stats.demolab.com?user=toskune&theme=dark&hide_border=true" />
   </picture>
 </div>
