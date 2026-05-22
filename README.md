@@ -1,3 +1,16 @@
-# Ilua Tihonev
+# 🎒 Player Inventory: Ilua Tihonev
 
-✨ I'm too lazy to come up with something interesting for my profile. Oh, and actually good developers don't need an introduction.
+> *Class: Game Dev / Backend Engineer*
+> *Status: AFK (Away From Keyboard) or Grinding...*
+
+## ⚔️ Main Weapon (Primary Stack)
+- 🗡️ **Engine:** Unity / Unreal Engine
+- 🛡️ **Backend:** Node.js / Python / Go
+- 🗄️ **Database:** PostgreSQL / Redis
+
+## 🧪 Potions & Scrolls (Tools & Services)
+- Docker, AWS, Git, gRPC
+
+## 📜 Completed Quests (Featured Projects)
+- 🕹️ **[Project Name]**: A pixel-art platformer with a focus on...
+- ⚙️ **[Project Name]**: High-load backend for a real-time multiplayer game...
