@@ -1,4 +1,4 @@
-# 🎒 Player Inventory: Ilua Tihonev
+# 🎒 Player Inventory: Ilya Tihonev
 
 > *Class: Game Dev / Backend Engineer*
 > *Status: AFK (Away From Keyboard) or Grinding...*
